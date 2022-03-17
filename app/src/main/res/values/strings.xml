@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="welcom">Welcom to N7</string>
+</resources>

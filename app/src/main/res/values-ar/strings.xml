@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fullname">الإسم الكامل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="login">دخول</string>
+    <string name="welcom">مرحبا في N7</string>
+</resources>
